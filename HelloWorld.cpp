@@ -9,6 +9,7 @@ int _tmain(int argc, _TCHAR* argv[])
 {
 
 	cout<<"Hello world!\n" << endl;
+	printf("Hello World!\n");
 	system("pause");
 	return 0;
 }
